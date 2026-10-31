@@ -8,3 +8,16 @@
 /build
 /captures
 .externalNativeBuild
+node_modules/
+venv/
+.idea/
+.vs/
+.pioenvs/
+.pio/
+__pycache__/
+*.pyc
+cmake-build-*/
+*.o
+*.class
+target/
+obj/
